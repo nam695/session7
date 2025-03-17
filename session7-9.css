@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heu{
+    display: flex;
+    flex-direction: row;
+}
+.hed{
+    width: 34%;
+    margin:1%;
+    text-align:center;
+    line-height: 80px;
+    font-size: 15px;
+    color: aliceblue;
+}
+#hei{
+    width: auto;
+    margin:0 1%;
+    text-align: center;
+    line-height: 150px;
+    font-size: 20px;
+    color: aliceblue;
+}
+.img1{
+    background-image: url(https://naidecor.vn/wp-content/uploads/2023/09/landscape_photography_tips_featured_image_1024x1024.webp);
+}
+#img2{
+    background-image: url(https://d1hjkbq40fs2x4.cloudfront.net/2016-01-31/files/1045-2.jpg);
+}
+#img3{
+    background-image: url(https://images2.thanhnien.vn/zoom/700_438/528068263637045248/2024/1/26/e093e9cfc9027d6a142358d24d2ee350-65a11ac2af785880-17061562929701875684912-37-0-587-880-crop-1706239860681642023140.jpg);
+}
+#img4{
+    background-image: url(https://d1hjkbq40fs2x4.cloudfront.net/2017-08-21/files/landscape-photography_1645.jpg);
+}
+#img5{
+    background-image: url(https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2019/11/15/766184/Anh3.jpg);
+}
+#img6{
+    background-image: url(https://media.istockphoto.com/id/517188688/vi/anh/phong-c%E1%BA%A3nh-n%C3%BAi-non.jpg?s=1024x1024&w=0&k=20&c=WTaBooyqmWtENY9a-TwOAOZQ1QDXFTzZZa21gFHfErA=);
+}
+#img7{
+    background-image: url(https://cdn-media.sforum.vn/storage/app/media/anh-dep-116.jpg);
+}
+button{
+    width: 60%;
+    height: 25px;
+    background-color: rgb(152, 186, 242);
+    border: none;
+    border-radius: 5px;
+}

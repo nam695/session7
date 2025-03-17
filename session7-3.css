@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    width: 24%;
+    height: 75px;
+    background-color: rgb(237, 190, 232);
+    text-align: center;
+    line-height: 75px;
+    border-radius: 10px;
+    margin: 5px;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(176, 26, 126);
+    justify-content:space-evenly;
+}
+.ton{
+    width: 50%;
+}

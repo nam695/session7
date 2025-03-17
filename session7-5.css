@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    background-color: rgb(255, 254, 254);
+}
+p{
+    background-image: linear-gradient(to right, #e3c9d6, #a9fdb9);
+    height: 30px;
+    width: 16%;
+    margin: 5px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 10px;
+}
+.res{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.rex{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
